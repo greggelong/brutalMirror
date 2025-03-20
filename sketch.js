@@ -60,7 +60,7 @@ function setup() {
 }
 
 function draw() {
-  background(250, 240, 230);
+  background(255);
 
   // load the myvideo to pixel array
   myvideo.loadPixels(); // gets a pixes arry for video capture
